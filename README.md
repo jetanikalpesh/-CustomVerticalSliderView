@@ -1,0 +1,2 @@
+# -CustomVerticalSliderView
+SwiftUI Component
